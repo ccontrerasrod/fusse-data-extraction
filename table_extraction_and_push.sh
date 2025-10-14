@@ -15,7 +15,7 @@ mkdir -p "$DATA_DIR"
 
 # ========== EXPORT ==========
 for TABLE in "${TABLES[@]}"; do
-    CSV_FILENAME="${TABLE}_${TIMESTAMP}.csv"
+    CSV_FILENAME="${TABLE}.csv"
     CONTAINER_PATH="/tmp/${CSV_FILENAME}"
     HOST_PATH="${DATA_DIR}/${CSV_FILENAME}"
 
