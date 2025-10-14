@@ -1,0 +1,2 @@
+debtor_account_id,creditor_account_id,asset_type,currency,instruction_id,amount,created_ts,message_id,original_transaction_id,process_id
+3f64f8ba-2ce9-4d7a-95c8-9c7cc63be816,FUSSE00007,CASH,CAD,1076f03d-2af3-4361-96ac-21c8e7563117,10,2025-10-03 03:54:47.982+0000,4220a238-b956-4996-b7ab-122dd863f038,b6e77c08-9b7a-4c6e-9d2e-1c5b7b315a1f,SETTLEMENT
